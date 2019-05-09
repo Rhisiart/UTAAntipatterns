@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UTAAntipatterns:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UTAAntipatterns_jar</output-path>
+    <root id="archive" name="UTAAntipatterns.jar">
+      <element id="module-output" name="UTAAntipatterns" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
